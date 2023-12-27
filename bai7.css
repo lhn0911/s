@@ -1,0 +1,33 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    text-align: center;
+    background-color: #333;
+}
+
+.square {
+    background-color: rgba(0, 0, 0, 0.468);
+    height: 100px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.text-white {
+    color: white;
+}
+
+nav {
+    display: flex;
+    justify-content: center;
+    background-color: #333;
+    color: white;
+}
+
+nav p {
+    margin: 10px;
+}

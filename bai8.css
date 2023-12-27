@@ -1,0 +1,13 @@
+.square {
+    background-color: rgba(0, 0, 0, 0.895);
+    height: auto;
+    width: 100%;
+    padding: 10px;
+}
+.header {
+    text-align: center;
+    background-color: #333;
+}
+.text-white {
+    color: white;
+}

@@ -1,0 +1,29 @@
+.shape {
+    display: inline-block;
+    margin: 10px;
+    text-align: center;
+    text-decoration: none;
+    color: #fff;
+    font-size: 16px;
+    line-height: 100px;
+}
+
+.red-square {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+}
+
+.blue-circle {
+    width: 100px;
+    height: 100px;
+    background-color: rgb(48, 3, 247);
+    border-radius: 50%;
+}
+
+.rounded-square {
+    width: 100px;
+    height: 100px;
+    background-color: rgb(9, 237, 28);
+    border-radius: 0 20px 0 20px;
+}
